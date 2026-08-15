@@ -3,7 +3,7 @@
 > 이 프로젝트는 **txt파일을 입력으로 받아서 자막바에 사용 할 수 있는 png파일로 변환**하는 프로그램입니다.
 ### 💾 다운로드
 최신 버전파일은 우측 **Release** 섹션이나 아래 링크를 통해 다운로드 할 수 있습니다.
-* [최신 버전 다운로드](https://github.com/ponte156/subtitle/releases/lastest)
+* [최신 버전 다운로드](https://github.com/ponte156/subtitle/releases/latest)
 *  *기타 버전은 우측 **Release** 섹션에서 확인 할 수 있습니다.*
 
 ### 사용법
